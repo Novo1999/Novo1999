@@ -101,12 +101,4 @@
       />
     </a>
   </p>
-
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=novo1999&show_icons=true&locale=en"
-      alt="novo1999"
-    />
-  </p>
 </div>
