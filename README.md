@@ -8,7 +8,7 @@
     />
   </p>
 
-  🌱 I’m currently learning **React.JS** - <br />
+  🌱 I’m currently learning **React.JS**  <br />
   📫 How to reach me **neptune.navo@gmail.com**
 
   <h3 align="left">Connect with me: https://www.facebook.com/Novodipp/</h3>
