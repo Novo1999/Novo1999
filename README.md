@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RemoteJumbo<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React, JavaScript, Redux
+🌱 I’m currently learning Next.js<br>💬 Ask me about React, JavaScript, Redux
 
 
 # 💻 Tech Stack:
