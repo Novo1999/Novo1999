@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working as a Frontend Developer
+🌱 I’m currently working as a Frontend Developer at Wensyve
 
 
 # 💻 Tech Stack:
