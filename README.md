@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working as a Frontend Developer at Wensyve
+🌱 I’m currently working as a Frontend Developer at Dhrubok Infotech Services Ltd.
 # 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novodip/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Novodipp) 
